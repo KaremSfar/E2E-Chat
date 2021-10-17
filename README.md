@@ -33,7 +33,7 @@ Tools used:
 3) Upon room joining, the client sends a **JOIN_ROOM** to the server, each two users have a uniuqe room.
 4) Exchanging messages between users happen through a **MESSAGE** event to the server, each message is encrypted with the recipient's public Key, and decrypted with the reciever's private key (stored in local storage).
 
-## Installation
+## Running the solution
 
 - Install NestJs's CLI: (might need admin for some ubuntu distros)
 ```
