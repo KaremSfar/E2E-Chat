@@ -1,4 +1,4 @@
-# E-Chat
+# E2E-Chat
 ## About
 An end-to-end encrypted messaging solution with Lightweight Directory Access Protocol user authentication.
 
