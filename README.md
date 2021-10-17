@@ -14,7 +14,7 @@ Tools used:
 
 ## Use Cases
 <p align="center">
-  <img width="750" src="readme-assets/Use-Case.png"/>
+  <img width="750" src="readme-assets/Use-case.png"/>
 </p>
 
 ## Architecture
